@@ -1,7 +1,5 @@
 # Contatore React
 
-Questo è un semplice progetto di un contatore React che puoi utilizzare come esempio per iniziare con lo sviluppo di applicazioni React.
-
 **[Provami](https://funny-faloodeh-624fab.netlify.app/)**
 
 ## Funzionalità
