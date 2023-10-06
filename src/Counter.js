@@ -17,7 +17,7 @@ function Counter() {
 
   return (
     <div className="container">
-      <p className="cou">Contatore: </p>
+      <p className="cou">Contatore </p>
       <p className="counter">{count}</p>
       <div className="button-container">
         <button className="button" onClick={decrement}>-</button>
